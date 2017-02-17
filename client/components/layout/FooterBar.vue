@@ -44,9 +44,5 @@ export default {
   .social a {
     border-bottom: none !important;
   }
-
-  .fa.fa-heart {
-    color: red;
-  }
 }
 </style>
