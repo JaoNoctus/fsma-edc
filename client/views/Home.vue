@@ -4,7 +4,7 @@
       <img width="200" src="~assets/logo.svg" :alt="description">
     </p>
 
-    <h1 class="is-title is-bold">{{ name.replace('-', ' ') }}</h1>
+    <h1 class="is-title is-bold">FSMA EDC</h1>
 
     <p><strong>{{ description }}</strong></p>
   </div>
