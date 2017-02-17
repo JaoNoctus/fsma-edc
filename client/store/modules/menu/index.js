@@ -1,9 +1,5 @@
 import * as types from '../../mutation-types'
-import lazyLoading from './lazyLoading'
-import charts from './charts'
-import uifeatures from './uifeatures'
-import components from './components'
-import tables from './tables'
+import tasks from './items/tasks'
 
 // show: meta.label -> name
 // name: component name
@@ -11,18 +7,7 @@ import tables from './tables'
 
 const state = {
   items: [
-    {
-      name: 'Dashboard',
-      path: '/dashboard',
-      meta: {
-        icon: 'fa-tachometer'
-      },
-      component: lazyLoading('dashboard', true)
-    },
-    charts,
-    uifeatures,
-    components,
-    tables
+    tasks
   ]
 }
 
