@@ -9,6 +9,12 @@
 </p>
 
 <p>
+<a href="https://travis-ci.org/JaoNoctus/fsma-edc"><img src="https://travis-ci.org/JaoNoctus/fsma-edc.svg?branch=master" alt="Build Status"></a>
+
+<a href="https://styleci.io/repos/82254576"><img src="https://styleci.io/repos/82254576/shield?branch=master" alt="StyleCI"></a>
+</p>
+
+<p>
   <sub>Made with ❤︎ by
     <a href="https://twitter.com/jaonoctus">jaonoctus</a>
   </sub>
